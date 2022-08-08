@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/DidierMurilloF/DidierMurilloF/main/img/R_(programming_language)-Logo.wine.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/DidierMurilloF/DidierMurilloF/main/img/R_(programming_language)-Logo.wine.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
