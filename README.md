@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning Rust and blockchain technology.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about computer science, blockchain and investing.
+- 🥅 2023 Goals: Get expert in R Shiny, improve React and JavaScript.
 - ⚡ Fun fact: I love reading, traveling, and investing.
 
 ### Connect with me:
@@ -19,20 +19,26 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/jackmystery_/#gh-dark-mode-only)
 
 ### Languages and Tools:
-
-<img align="left" alt="R" height="40px" src="https://raw.githubusercontent.com/DidierMurilloF/DidierMurilloF/main/img/R_(programming_language)-Logo.wine.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="R programming language" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="R Shiny" width="38px" src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png"
+     style="padding-right:10px;" />
+<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="Git" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+     style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="36px" src="./img/terminal-dark.svg" />
 
 <br />
 <br />
