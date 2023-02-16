@@ -9,6 +9,9 @@
 
 ### Connect with me:
 
+[![website](./img/twitter-light.svg)](https://twitter.com/elconde0787#gh-light-mode-only){:target="_blank"}
+[![website](./img/twitter-dark.svg)](https://twitter.com/elconde0787#gh-dark-mode-only){:target="_blank"}
+
 [![website](./img/twitter-light.svg)](https://twitter.com/elconde0787#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/elconde0787#gh-dark-mode-only)
 &nbsp;&nbsp;
