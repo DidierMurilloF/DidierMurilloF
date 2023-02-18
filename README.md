@@ -1,10 +1,12 @@
 # Hi there, I'm Didier Murillo 👋 
 
-## I'm a statistician and R/Shiny developer. Recently, I started to develop in React.
+## I'm trained as a statistician, but my passion lies in software engineering
+
+#### I have a background in statistics, which I find fascinating, but my true passion lies in developing software. I enjoy combining my knowledge of statistics with my software engineering skills to create powerful and effective applications.
 
 - 🌱 I'm currently learning Rust and blockchain technology.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Get expert in R Shiny, improve my React and JavaScript skills..
+- 🥅 2023 Goals: Get expert in R Shiny, improve my React and JavaScript skills.
 - ⚡ Fun fact: I love reading, traveling, and investing.
 
 ### Connect with me:
