@@ -25,8 +25,6 @@
      style="padding-right:10px;" />
 <img align="left" alt="R Shiny" width="38px" src="https://raw.githubusercontent.com/rstudio/shiny/main/man/figures/logo.png"
      style="padding-right:10px;" />
-<img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-     style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
      style="padding-right:10px;" />
 <img align="left" alt="React" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
